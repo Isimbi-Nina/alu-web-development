@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180">
+  <rect width="320" height="180" fill="#3d9b8f"/>
+  <circle cx="160" cy="78" r="28" fill="#ffffff" fill-opacity="0.92"/>
+  <polygon points="152,64 152,92 176,78" fill="#3d9b8f"/>
+  <text x="160" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff">Natural Smile</text>
+</svg>
